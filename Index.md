@@ -5,6 +5,4 @@ tags:
 ---
 ## Resources
 
-Not inclueded in git repo.
-
-- The [Script](Resources/BNITM_Script_Immunologie-Praktikum.pdf) 
+- The [Script](resource/BNITM_Script_Immunologie-Praktikum.pdf) (not included in git)
